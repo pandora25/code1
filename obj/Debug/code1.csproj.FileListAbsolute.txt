@@ -1,0 +1,7 @@
+C:\Users\mcyal\source\repos\code1\code1\bin\Debug\code1.exe.config
+C:\Users\mcyal\source\repos\code1\code1\bin\Debug\code1.exe
+C:\Users\mcyal\source\repos\code1\code1\bin\Debug\code1.pdb
+C:\Users\mcyal\source\repos\code1\code1\obj\Debug\code1.csprojResolveAssemblyReference.cache
+C:\Users\mcyal\source\repos\code1\code1\obj\Debug\code1.csproj.CoreCompileInputs.cache
+C:\Users\mcyal\source\repos\code1\code1\obj\Debug\code1.exe
+C:\Users\mcyal\source\repos\code1\code1\obj\Debug\code1.pdb
